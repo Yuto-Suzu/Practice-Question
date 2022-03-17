@@ -17,5 +17,6 @@ public class Main{
         BMI = Taiju / Sintyo;
 
         System.out.println("Your BMI is " + ((Math.ceil(BMI * 100)) / 100));
+        System.out.println("Your BMI is " + ((Math.ceil(BMI * 100)) / 100));
     }
 }
